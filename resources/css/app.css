@@ -1,0 +1,15 @@
+@import '../plugin/Syndron/plugins/simplebar/css/simplebar.css';
+/*@import '../plugin/Syndron/plugins/metismenu/css/metisMenu.min.css';*/
+@import '../plugin/Syndron/css/pace.min.css';
+@import '../plugin/Syndron/css/bootstrap.min.css';
+@import '../plugin/Syndron/css/bootstrap-extended.css';
+@import '../plugin/Syndron/css/app.css';
+@import '../plugin/Syndron/css/dark-theme.css';
+@import '../plugin/Syndron/css/semi-dark.css';
+@import '../plugin/Syndron/css/header-colors.css';
+@import '../plugin/Syndron/plugins/smart-wizard/css/smart_wizard_all.min.css';
+@import 'https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css';
+@import "~modules/font-awesome/css/font-awesome.min.css";
+@import "~modules/boxicons/css/boxicons.min.css";
+@import "~modules/metisMenu/dist/metisMenu.min.css";
+@import "~modules/perfect-scrollbar/css/perfect-scrollbar.css";

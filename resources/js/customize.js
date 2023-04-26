@@ -1,0 +1,12 @@
+import 'jquery-ui/external/jquery-1.9.1/jquery.js';
+import 'jquery-ui/dist/jquery-ui.min.js';
+import 'jquery-ui/ui/widgets/datepicker.js';
+import 'jquery-confirm/dist/jquery-confirm.min.js';
+/*import '../plugin/Syndron/js/bootstrap.bundle.min.js';
+import '../plugin/Syndron/js/pace.min.js';*/
+/*import '../plugin/Syndron/plugins/metismenu/js/metisMenu.min.js';*/
+import '../plugin/jquery-combogrid/resources/plugin/jquery.ui.combogrid-1.6.4.js';
+/*import '../plugin/Syndron/plugins/datatable/js/dataTables.bootstrap5.min';*/
+import '../plugin/Syndron/plugins/smart-wizard/js/jquery.smartWizard.min.js';
+import '../plugin/Syndron/js/index.js';
+import '../plugin/Syndron/js/app.js';
